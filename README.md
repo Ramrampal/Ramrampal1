@@ -1,117 +1,187 @@
-<h1 align="center">Hi 👋, I'm Rampal Lodhi</h1>
+<h1 align="center">🚀 Hi, I'm Rampal Lodhi 👨‍💻</h1>
 
 <h3 align="center">
-🚀 Software Developer | Problem Solver | Tech Explorer
+💻 Software Developer | Frontend Developer | Problem Solver | Tech Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Open+Source+Contributor;DSA+Enthusiast;AI+%26+Cyber+Security+Learner;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;React+Developer;DSA+Enthusiast;AI+%26+Cyber+Security+Learner;Building+Real+World+Projects;Open+Source+Contributor" />
 </p>
 
 ---
 
-# 💫 About Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
+
+# 🌌 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🚀 Passionate Software Developer from India  
-💻 Focused on building real-world projects  
-🌱 Currently learning Advanced React, Python & AI  
-🛠 Love solving coding problems and creating useful applications  
-🎯 Goal: Become a professional Software Engineer  
-⚡ Interested in:
-- Web Development
-- AI Projects
+
+💡 Love creating real-world projects and solving coding problems  
+
+🌱 Currently learning:
+- Advanced React
+- Python
+- AI Development
 - Cyber Security
-- Open Source
-- Software Engineering
+
+🎯 Career Goal:
+> Become a professional Software Engineer and contribute to impactful technology.
+
+⚡ Fun Fact:
+```cpp
+while(alive)
+{
+   eat();
+   code();
+   sleep();
+   repeat();
+}
+```
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-## 🌐 Frontend Development
+<p align="center">
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
 
-## 💻 Programming Languages
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
+
 </p>
 
-## 🧠 Core Computer Science
+---
 
-✔ Data Structures & Algorithms  
-✔ Operating System  
-✔ OOPS  
-✔ DBMS  
-✔ Computer Networks  
+# 💻 Core Computer Science
+
+<div align="center">
+
+| 💡 Subjects | 🚀 Knowledge |
+|---|---|
+| Data Structures & Algorithms | ✅ |
+| Operating System | ✅ |
+| OOPS | ✅ |
+| DBMS | ✅ |
+| Computer Networks | ✅ |
+
+</div>
 
 ---
 
 # 🔥 Featured Projects
 
-## 📸 Camera Permission Analyzer
-🔗 <https://github.com/Ramrampal/camera-permission-analyzer>
+---
 
-✔ Browser Camera Permission Security Analyzer  
-✔ HTML + CSS + JavaScript Project  
-✔ Helps users understand browser permissions  
-✔ Security-focused frontend project
+## 📸 Camera Permission Analyzer
+
+🔗 https://github.com/Ramrampal/camera-permission-analyzer
+
+✨ Features:
+- Browser Camera Permission Analysis
+- Security Awareness Tool
+- Interactive Frontend UI
+- HTML + CSS + JavaScript
 
 ---
 
 ## 📍 Live Location Tracker
-🔗 <https://github.com/Ramrampal/live-location-tracker>
 
-✔ Real-time location tracking system  
-✔ JavaScript Geolocation API  
-✔ Interactive and responsive UI
+🔗 https://github.com/Ramrampal/live-location-tracker
+
+✨ Features:
+- Real-time Geolocation Tracking
+- JavaScript API Integration
+- Interactive UI Experience
 
 ---
 
 ## 🤖 Medical Research AI
-🔗 <https://github.com/Ramrampal/medical-research-ai>
 
-✔ AI-powered research assistance project  
-✔ Future-focused innovation project  
-✔ Modern problem-solving approach
+🔗 https://github.com/Ramrampal/medical-research-ai
+
+✨ Features:
+- AI-based Research System
+- Smart Information Processing
+- Future-Oriented Innovation
+
+---
+
+# 🧠 DSA & Learning Repositories
 
 ---
 
 ## 📚 DSA CodeHelp
-🔗 <https://github.com/Ramrampal/DSA_codeHelp>
 
-✔ Data Structures & Algorithms practice  
-✔ Problem-solving repository  
-✔ Competitive programming solutions
+🔗 https://github.com/Ramrampal/DSA_codeHelp
+
+✔ DSA Questions  
+✔ Competitive Programming  
+✔ Problem Solving Skills
 
 ---
 
-## 🧠 Python Practice Repository
-🔗 <https://github.com/Ramrampal/PYTHON__104>
+## 🧩 class-obj-AS-TTS
 
-✔ Python learning journey  
-✔ Practice programs and concepts  
-✔ Logic-building exercises
+🔗 https://github.com/Ramrampal/class-obj-AS-TTS
+
+✔ OOPS Concepts  
+✔ Classes & Objects  
+✔ Programming Fundamentals
+
+---
+
+## 🐍 PYTHON__104
+
+🔗 https://github.com/Ramrampal/PYTHON__104
+
+✔ Python Practice Repository  
+✔ Logic Building  
+✔ Beginner to Intermediate Concepts
+
+---
+
+## 🔤 String Repository
+
+🔗 https://github.com/Ramrampal/String
+
+✔ String Manipulation Problems  
+✔ Coding Interview Concepts
+
+---
+
+## 🔢 Array Repository
+
+🔗 https://github.com/Ramrampal/Array
+
+✔ Array-Based Problems  
+✔ DSA Fundamentals  
+✔ Practice Questions
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramrampal&show_icons=true&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramrampal&theme=tokyonight"/>
+
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Rampal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark)](https://github.com/Ramrampal)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark"/>
+</p>
 
 ---
 
@@ -123,12 +193,18 @@
 
 ---
 
-# 🧑‍💻 Coding Profiles
+# 🚀 3D Developer Animation
 
-<p align="left">
-<a href="https://github.com/Ramrampal">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌍 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -136,55 +212,55 @@
 # 📌 Current Focus
 
 ```yaml
-Currently Learning:
+Learning:
   - React.js
   - Python
-  - AI Development
+  - AI Projects
   - Cyber Security
 
-Building:
-  - Real-world Projects
-  - Frontend Applications
+Working On:
   - Open Source Projects
+  - Frontend Applications
+  - Real-world Systems
 
-Goal:
-  - Software Engineering Career
+Dream:
+  - Become Software Engineer
 ```
 
 ---
 
-# 🌟 Fun Fact
+# 🌐 Connect With Me
 
-```cpp
-while(success != true)
-{
-    learn();
-    build();
-    code();
-    repeat();
-}
-```
+<p align="center">
 
----
+<a href="https://github.com/Ramrampal">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 
-# 👀 Profile Visitors
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 💡 Developer Quote
 
-📍 Bhopal, Madhya Pradesh, India  
+<p align="center">
 
-💼 GitHub: <https://github.com/Ramrampal>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-🔗 LinkedIn: Add Your LinkedIn URL Here
+</p>
 
 ---
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+
+</p>
+
 <h3 align="center">
-💻 "Code • Learn • Build • Repeat" 🚀
+⭐ "Code • Learn • Build • Repeat" ⭐
 </h3>
