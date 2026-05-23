@@ -1,136 +1,190 @@
-# Ramrampal1
 <h1 align="center">Hi 👋, I'm Rampal Lodhi</h1>
-<h3 align="center">🚀 Software Developer | Problem Solver | Tech Explorer</h3>
+
+<h3 align="center">
+🚀 Software Developer | Problem Solver | Tech Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Open+Source+Contributor;Frontend+Developer;Python+Learner;DSA+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Open+Source+Contributor;DSA+Enthusiast;AI+%26+Cyber+Security+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 💫 About Me
 
-- 🌍 From Bhopal, Madhya Pradesh, India
-- 💻 Passionate about Software Development
-- 🌱 Currently learning Python & Advanced DSA
-- 🚀 Interested in Cyber Security & AI Projects
-- ⚡ Love building real-world projects
-- 🎯 Goal: Become a Top Software Engineer
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 Passionate Software Developer from India  
+💻 Focused on building real-world projects  
+🌱 Currently learning Advanced React, Python & AI  
+🛠 Love solving coding problems and creating useful applications  
+🎯 Goal: Become a professional Software Engineer  
+⚡ Interested in:
+- Web Development
+- AI Projects
+- Cyber Security
+- Open Source
+- Software Engineering
 
 ---
 
 # 🚀 Tech Stack
 
-## Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+## 🌐 Frontend Development
 
-## Frontend
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
 
-## Core Subjects
-- Operating System
-- OOPS
-- DBMS
-- Computer Networks
-- DSA
+## 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
+</p>
+
+## 🧠 Core Computer Science
+
+✔ Data Structures & Algorithms  
+✔ Operating System  
+✔ OOPS  
+✔ DBMS  
+✔ Computer Networks  
 
 ---
 
-# 🔥 Favorite Projects
+# 🔥 Featured Projects
 
 ## 📸 Camera Permission Analyzer
-🔗 https://github.com/Ramrampal/camera-permission-analyzer
+🔗 <https://github.com/Ramrampal/camera-permission-analyzer>
 
-✔ Analyze browser camera permissions  
-✔ Security awareness project  
-✔ HTML + CSS + JavaScript based
+✔ Browser Camera Permission Security Analyzer  
+✔ HTML + CSS + JavaScript Project  
+✔ Helps users understand browser permissions  
+✔ Security-focused frontend project
 
 ---
 
 ## 📍 Live Location Tracker
-🔗 https://github.com/Ramrampal/live-location-tracker
+🔗 <https://github.com/Ramrampal/live-location-tracker>
 
-✔ Real-time location tracking  
-✔ JavaScript project  
-✔ Browser Geolocation API
+✔ Real-time location tracking system  
+✔ JavaScript Geolocation API  
+✔ Interactive and responsive UI
 
 ---
 
 ## 🤖 Medical Research AI
-🔗 https://github.com/Ramrampal/medical-research-ai
+🔗 <https://github.com/Ramrampal/medical-research-ai>
 
-✔ AI-based research project  
-✔ Modern development workflow  
-✔ Future-focused innovation
+✔ AI-powered research assistance project  
+✔ Future-focused innovation project  
+✔ Modern problem-solving approach
 
 ---
 
-# 📊 GitHub Stats
+## 📚 DSA CodeHelp
+🔗 <https://github.com/Ramrampal/DSA_codeHelp>
+
+✔ Data Structures & Algorithms practice  
+✔ Problem-solving repository  
+✔ Competitive programming solutions
+
+---
+
+## 🧠 Python Practice Repository
+🔗 <https://github.com/Ramrampal/PYTHON__104>
+
+✔ Python learning journey  
+✔ Practice programs and concepts  
+✔ Logic-building exercises
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramrampal&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramrampal&theme=tokyonight" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramrampal&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramrampal&theme=tokyonight"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Rampal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark)](https://github.com/Ramrampal)
+[![Rampal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark)](https://github.com/Ramrampal)
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramrampal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ramrampal&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🧑‍💻 Coding Profiles
+
+<p align="left">
+<a href="https://github.com/Ramrampal">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
 # 📌 Current Focus
 
 ```yaml
-Learning:
+Currently Learning:
+  - React.js
   - Python
-  - DSA
-  - AI Projects
+  - AI Development
   - Cyber Security
 
-Working On:
+Building:
+  - Real-world Projects
+  - Frontend Applications
   - Open Source Projects
-  - Frontend Development
-  - Real-world Applications
+
+Goal:
+  - Software Engineering Career
 ```
 
 ---
 
 # 🌟 Fun Fact
 
-```bash
-while(alive){
-   eat();
-   code();
-   sleep();
-   repeat();
+```cpp
+while(success != true)
+{
+    learn();
+    build();
+    code();
+    repeat();
 }
 ```
 
 ---
 
-# 📫 Connect With Me
-
-- GitHub: https://github.com/Ramrampal
-- LinkedIn: Add Your LinkedIn Here
-
----
-
 # 👀 Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=Ramrampal&color=blue)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-<h3 align="center">💻 “Code. Learn. Build. Repeat.” 🚀</h3>
+# 🤝 Connect With Me
+
+📍 Bhopal, Madhya Pradesh, India  
+
+💼 GitHub: <https://github.com/Ramrampal>
+
+🔗 LinkedIn: Add Your LinkedIn URL Here
+
+---
+
+<h3 align="center">
+💻 "Code • Learn • Build • Repeat" 🚀
+</h3>
